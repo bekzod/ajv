@@ -36,6 +36,6 @@ lib/dotjs/*.js
 .browser
 
 # bundles
-dist/
+# dist/
 
 package-lock.json
